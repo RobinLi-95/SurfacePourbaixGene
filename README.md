@@ -1,7 +1,7 @@
 # SurfacePourbaixGene
 ### This is a set of scripts for generating Surface Pourbaix Diagram of Mg surfaces
 
-1. <span style="color:red">*SlabBuilder*</span> is a tool for constructing different Mg surfaces based on relaxed bulk Mg structure.
+1. <span style="colors:red">*SlabBuilder*</span> is a tool for constructing different Mg surfaces based on relaxed bulk Mg structure.
 2. <span style="color:red">*Mg10m10SiteFinder*</span> is a tool for determining the typical adsorption sites (onsurface:OT/HW/LB/SB and subsurface:Octa/Tetra-I/Tetra-II) in Mg (10m10) surface.
 3. <span style="color:red">*Mg10m10AdsorptionHelper*</span> helps adsorbing -OH/-O/-H in the Mg (10m10) surfaces symmetrically.
 4. <span style="color:red">*StructureOutput*</span> outputs the constructed surfaces in the VASP POSCAR format.
