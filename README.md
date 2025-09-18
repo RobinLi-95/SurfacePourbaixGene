@@ -1,4 +1,4 @@
-# PyPourbaixGene
+# PyPourbaix
 ### This is a set of scripts for generating Surface Pourbaix Diagram of Mg surfaces
 
 1. <span style="colors:red">*SlabBuilder*</span> is a tool for constructing different Mg surfaces based on relaxed bulk Mg structure.
